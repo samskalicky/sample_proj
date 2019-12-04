@@ -17,4 +17,4 @@ Deploy
 	- https://packaging.python.org/tutorials/packaging-projects/
 4. Tests
 6. Setting up Jenkins on AWS with Amazon Linux 2
-  - https://medium.com/faun/ci-cd-pipeline-with-jenkins-and-aws-s3-c08a3656d381
+  - https://blog.tentamen.eu/jenkins-and-github-integration-using-webhooks/
