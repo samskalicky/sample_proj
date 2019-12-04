@@ -3,3 +3,5 @@ build/*
 dist/
 jenkinsProj.egg-info/
 python/jenkinsProj.egg-info/
+lib/*
+joe/*
