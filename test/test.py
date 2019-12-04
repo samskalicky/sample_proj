@@ -1,3 +1,3 @@
-import main
+import jenkinsProj
 
-main.test_empty()
+jenkinsProj.test_empty()
