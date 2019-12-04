@@ -14,6 +14,5 @@ Deploy
   - ctypes (no FFI)
   - https://solarianprogrammer.com/2019/07/18/python-using-c-cpp-libraries-ctypes/
 3. Package all the code into a pip wheel
-	- distutils
-  - https://docs.python.org/2/distutils/setupscript.html
+	- https://packaging.python.org/tutorials/packaging-projects/
 4. Tests
